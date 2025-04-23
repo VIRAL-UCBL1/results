@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  backend:
+    image: alexandre136/video_rating_backend_app:latest  # Utilisation de l'image construite
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./videos:/app/videos   # Monte le dossier ./videos de l'hôte dans /app/data/videos du conteneur
+      - ./validation:/app/validation # Monte le dossier ./validation de l'hôte dans /app/data/validation du conteneur
+    environment:
+      - FLASK_ENV=development
+
+  frontend:
+    image: alexandre136/video_rating_frontend_app:latest
+    ports:
+      - "5173:5173"
