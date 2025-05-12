@@ -1,0 +1,109 @@
+video_name,environment,understand,comment,rating,source
+0_Hopper-v5_220770-episode-0.mp4,Hopper-v5,3,la vidéo commence toute seule - ne nous laisse pas le temps de lire les instructions,3,text
+0_LunarLander-v3_215642-episode-0.mp4,LunarLander-v3,3,Le vol semble stationnaire pour le peu qu'on voit vaisseau,3,text_image
+0_LunarLander-v3_15289-episode-0.mp4,LunarLander-v3,5,Vol plus stationnaire mais tendance à partir sur la droite,3,text
+0_Swimmer-v5_673659-episode-0.mp4,Swimmer-v5,3,"Je ne vois pas les instructions - alors si c'est les mêmes que la première fois, oui la vidéo suit les instructions",3,image
+0_LunarLander-v3_468194-episode-0.mp4,LunarLander-v3,3,pas de vol stationnaire sur cette vidéo,1,image
+0_Hopper-v5_95464-episode-0.mp4,Hopper-v5,4,pas d'avance rapide pas de saut,1,text_image
+0_highway-fast-v0_625676-episode-0.mp4,highway-fast-v0,4,accident,1,text_image
+0_highway-fast-v0_792219-episode-0.mp4,highway-fast-v0,4,le véhicule reste bien sur la voie de droite mais ne double pas ,3,text
+0_highway-fast-v0_699249-episode-0.mp4,highway-fast-v0,4,IDEM,3,image
+0_Swimmer-v5_829344-episode-0.mp4,Swimmer-v5,4,ne semble pas avancer ,3,text_image
+0_Hopper-v5_22376-episode-0.mp4,Hopper-v5,4,IDEM,3,image
+0_Swimmer-v5_297297-episode-0.mp4,Swimmer-v5,4,plutôt un escargot ,1,text
+0_Swimmer-v5_352566-episode-0.mp4,Swimmer-v5,4,reste sur les mêmes carrés,1,text_image
+0_Swimmer-v5_93187-episode-0.mp4,Swimmer-v5,4,bouge sans avancer,1,image
+0_Hopper-v5_276219-episode-0.mp4,Hopper-v5,4,ne bouge pas,1,text_image
+0_highway-fast-v0_960058-episode-0.mp4,highway-fast-v0,4,n'est pas sur la bonne voie car ne double pas ,1,image
+0_highway-fast-v0_330419-episode-0.mp4,highway-fast-v0,4,a essayé mais accident,1,text
+0_LunarLander-v3_228071-episode-0.mp4,LunarLander-v3,4,chute,1,image
+0_highway-fast-v0_66312-episode-0.mp4,highway-fast-v0,4,pas la bonne voie ,1,text_image
+0_Swimmer-v5_862397-episode-0.mp4,Swimmer-v5,4,bouge mais n'avance pas ,1,text
+0_Hopper-v5_519118-episode-0.mp4,Hopper-v5,4,saute mais pas dans le bon sens,2,image
+0_Hopper-v5_631693-episode-0.mp4,Hopper-v5,4,tombe,1,text
+0_LunarLander-v3_15289-episode-0.mp4,LunarLander-v3,4,vol stationnaire mais va à droite,3,text
+0_LunarLander-v3_631760-episode-0.mp4,LunarLander-v3,4,,5,text_image
+0_LunarLander-v3_399215-episode-0.mp4,LunarLander-v3,4,,1,image
+0_Hopper-v5_617705-episode-0.mp4,Hopper-v5,4,,1,text_image
+0_Swimmer-v5_297297-episode-0.mp4,Swimmer-v5,4,toujours un escargot,1,text
+0_highway-fast-v0_310042-episode-0.mp4,highway-fast-v0,4,,4,text
+0_Swimmer-v5_251676-episode-0.mp4,Swimmer-v5,4,,1,image
+0_highway-fast-v0_960058-episode-0.mp4,highway-fast-v0,4,,1,image
+0_LunarLander-v3_237834-episode-0.mp4,LunarLander-v3,4,,1,text
+0_highway-fast-v0_368543-episode-0.mp4,highway-fast-v0,4,,1,text_image
+0_Hopper-v5_365228-episode-0.mp4,Hopper-v5,4,,5,text
+0_LunarLander-v3_359613-episode-0.mp4,LunarLander-v3,4,,1,text_image
+0_Swimmer-v5_39181-episode-0.mp4,Swimmer-v5,4,bouge comme un serpent mais n'avance pas ,3,text_image
+0_Hopper-v5_627340-episode-0.mp4,Hopper-v5,4,tombe,2,image
+0_LunarLander-v3_399215-episode-0.mp4,LunarLander-v3,4,,1,image
+0_LunarLander-v3_318570-episode-0.mp4,LunarLander-v3,4,,2,text
+0_Swimmer-v5_207193-episode-0.mp4,Swimmer-v5,4,escargot ,2,text
+0_Hopper-v5_365228-episode-0.mp4,Hopper-v5,4,,5,text
+0_highway-fast-v0_654586-episode-0.mp4,highway-fast-v0,4,,1,text_image
+0_highway-fast-v0_792219-episode-0.mp4,highway-fast-v0,4,reste à droite mais ne double pas,4,text
+0_highway-fast-v0_217796-episode-0.mp4,highway-fast-v0,4,,1,image
+0_Swimmer-v5_39181-episode-0.mp4,Swimmer-v5,4,bouge comme un serpent mais n'avance pas,3,text_image
+0_Hopper-v5_779442-episode-0.mp4,Hopper-v5,4,,1,image
+0_Hopper-v5_276219-episode-0.mp4,Hopper-v5,4,,1,text_image
+0_Swimmer-v5_251676-episode-0.mp4,Swimmer-v5,4,,1,image
+0_LunarLander-v3_143855-episode-0.mp4,LunarLander-v3,4,,1,text_image
+0_Swimmer-v5_836464-episode-0.mp4,Swimmer-v5,4,bouge comme un serpent et avance doucement,4,text_image
+0_Swimmer-v5_409148-episode-0.mp4,Swimmer-v5,4,,1,image
+0_highway-fast-v0_43229-episode-0.mp4,highway-fast-v0,4,au début suit les instruction et ensuite non,2,text_image
+0_Swimmer-v5_469177-episode-0.mp4,Swimmer-v5,4,,1,text
+0_highway-fast-v0_964790-episode-0.mp4,highway-fast-v0,4,double bien à gauche mais ne vas pas sur la voie de droite,3,image
+0_LunarLander-v3_210114-episode-0.mp4,LunarLander-v3,4,,3,text_image
+0_Hopper-v5_749072-episode-0.mp4,Hopper-v5,4,,1,image
+0_LunarLander-v3_15289-episode-0.mp4,LunarLander-v3,4,,4,text
+0_Hopper-v5_510368-episode-0.mp4,Hopper-v5,4,,2,text_image
+0_highway-fast-v0_330419-episode-0.mp4,highway-fast-v0,4,,1,text
+0_Hopper-v5_869216-episode-0.mp4,Hopper-v5,4,,2,text
+0_LunarLander-v3_42158-episode-0.mp4,LunarLander-v3,4,,4,image
+0_highway-fast-v0_66312-episode-0.mp4,highway-fast-v0,4,,3,text_image
+0_Hopper-v5_62431-episode-0.mp4,Hopper-v5,4,,1,image
+0_LunarLander-v3_781334-episode-0.mp4,LunarLander-v3,4,,5,text
+0_highway-fast-v0_310042-episode-0.mp4,highway-fast-v0,4,,5,text
+0_LunarLander-v3_399215-episode-0.mp4,LunarLander-v3,4,,1,image
+0_highway-fast-v0_49861-episode-0.mp4,highway-fast-v0,4,,1,image
+0_Swimmer-v5_621924-episode-0.mp4,Swimmer-v5,4,,1,image
+0_Swimmer-v5_39181-episode-0.mp4,Swimmer-v5,4,,3,text_image
+0_Swimmer-v5_862397-episode-0.mp4,Swimmer-v5,4,,1,text
+0_Hopper-v5_803813-episode-0.mp4,Hopper-v5,4,,1,text_image
+0_LunarLander-v3_210114-episode-0.mp4,LunarLander-v3,4,,4,text_image
+0_Hopper-v5_631693-episode-0.mp4,Hopper-v5,4,,1,text
+0_highway-fast-v0_217796-episode-0.mp4,highway-fast-v0,4,,1,image
+0_highway-fast-v0_792219-episode-0.mp4,highway-fast-v0,4,,5,text
+0_LunarLander-v3_337675-episode-0.mp4,LunarLander-v3,4,,4,image
+0_Swimmer-v5_409148-episode-0.mp4,Swimmer-v5,4,,1,image
+0_LunarLander-v3_359613-episode-0.mp4,LunarLander-v3,4,,1,text_image
+0_Hopper-v5_22376-episode-0.mp4,Hopper-v5,4,,1,image
+0_Hopper-v5_228495-episode-0.mp4,Hopper-v5,4,,2,text_image
+0_Swimmer-v5_862397-episode-0.mp4,Swimmer-v5,4,,1,text
+0_LunarLander-v3_633998-episode-0.mp4,LunarLander-v3,4,,4,text
+0_Hopper-v5_313940-episode-0.mp4,Hopper-v5,4,,1,text
+0_highway-fast-v0_133437-episode-0.mp4,highway-fast-v0,4,,3,text_image
+0_Swimmer-v5_498787-episode-0.mp4,Swimmer-v5,4,,1,text_image
+0_Swimmer-v5_207193-episode-0.mp4,Swimmer-v5,4,,1,text
+0_highway-fast-v0_650470-episode-0.mp4,highway-fast-v0,4,,1,image
+0_LunarLander-v3_600632-episode-0.mp4,LunarLander-v3,4,,3,text_image
+0_Hopper-v5_51198-episode-0.mp4,Hopper-v5,4,,5,text
+0_Swimmer-v5_39181-episode-0.mp4,Swimmer-v5,4,,3,text_image
+0_Swimmer-v5_534657-episode-0.mp4,Swimmer-v5,4,,1,image
+0_highway-fast-v0_439136-episode-0.mp4,highway-fast-v0,4,,1,text
+0_highway-fast-v0_800393-episode-0.mp4,highway-fast-v0,4,,1,text_image
+0_Hopper-v5_62431-episode-0.mp4,Hopper-v5,4,,1,image
+0_Hopper-v5_849864-episode-0.mp4,Hopper-v5,4,,1,text_image
+0_LunarLander-v3_55253-episode-0.mp4,LunarLander-v3,4,,1,image
+0_LunarLander-v3_504541-episode-0.mp4,LunarLander-v3,4,,5,text
+0_highway-fast-v0_217796-episode-0.mp4,highway-fast-v0,4,,1,image
+0_Swimmer-v5_551131-episode-0.mp4,Swimmer-v5,4,,1,text_image
+0_Swimmer-v5_409148-episode-0.mp4,Swimmer-v5,4,,1,image
+0_highway-fast-v0_311567-episode-0.mp4,highway-fast-v0,4,,1,text_image
+0_LunarLander-v3_442119-episode-0.mp4,LunarLander-v3,4,,1,text_image
+0_Hopper-v5_365228-episode-0.mp4,Hopper-v5,4,,5,text
+0_Hopper-v5_22376-episode-0.mp4,Hopper-v5,4,,1,image
+0_highway-fast-v0_792219-episode-0.mp4,highway-fast-v0,4,,5,text
+0_Swimmer-v5_962893-episode-0.mp4,Swimmer-v5,4,,1,text
+0_LunarLander-v3_15289-episode-0.mp4,LunarLander-v3,4,,5,text
+0_Hopper-v5_849864-episode-0.mp4,Hopper-v5,4,,1,text_image
+0_LunarLander-v3_468194-episode-0.mp4,LunarLander-v3,5,,1,image

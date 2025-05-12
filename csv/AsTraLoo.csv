@@ -1,0 +1,47 @@
+video_name,environment,understand,comment,rating,source
+0_Hopper-v5_749072-episode-0.mp4,Hopper-v5,5,left side ,1,image
+0_Hopper-v5_51198-episode-0.mp4,Hopper-v5,5,"I don't this things jump too high but since we don't know what is ""too high for your model"" i just say it's okay ",4,text
+0_Swimmer-v5_156005-episode-0.mp4,Swimmer-v5,5,I think the mouvement is too big ,3,image
+0_LunarLander-v3_616521-episode-0.mp4,LunarLander-v3,5,"Dont know what happen to the rocket maybe he is landing or crashing ? Anyway in this video, i only see the smoke of your rocket going to the right side",3,text
+0_Hopper-v5_375905-episode-0.mp4,Hopper-v5,5,Look fine but not all part of your object move but look fine ,4,text_image
+0_Swimmer-v5_469177-episode-0.mp4,Swimmer-v5,5,it does move forward but he don't do any movement,2,text
+0_highway-fast-v0_436534-episode-0.mp4,highway-fast-v0,5,he go on the last line but he don't try to exceed other car and also he just stay at the same position,1,text_image
+0_Hopper-v5_732586-episode-0.mp4,Hopper-v5,5,bad vidéo since we only have 0 secondes can't see what happen,1,image
+0_highway-fast-v0_699249-episode-0.mp4,highway-fast-v0,5,"look like better but he didn't try to exceed the car in front of him, maybe it's because he didn't go in the middle of the road ",3,image
+0_LunarLander-v3_337675-episode-0.mp4,LunarLander-v3,4,I think he need to stay betwen those two flag ? that no what he did ,1,image
+0_LunarLander-v3_359613-episode-0.mp4,LunarLander-v3,4,no rocket,1,text_image
+0_Swimmer-v5_551131-episode-0.mp4,Swimmer-v5,5,"don't move forward, just turn around him ",1,text_image
+0_Hopper-v5_313940-episode-0.mp4,Hopper-v5,5,Look ok ? but he fell,3,text
+0_Swimmer-v5_327852-episode-0.mp4,Swimmer-v5,5,don't respect the image consign ( movement),1,image
+0_highway-fast-v0_439136-episode-0.mp4,highway-fast-v0,5,actually is those other vehicule who go on the middle road to let him pass so it's wrong ,1,text
+0_Swimmer-v5_354392-episode-0.mp4,Swimmer-v5,5,Look good ,5,text
+0_LunarLander-v3_318570-episode-0.mp4,LunarLander-v3,5,,2,text
+0_Swimmer-v5_93187-episode-0.mp4,Swimmer-v5,5,"false movement, no forward",1,image
+0_highway-fast-v0_7532-episode-0.mp4,highway-fast-v0,5,wrong he stay on the left ,1,text
+0_highway-fast-v0_684885-episode-0.mp4,highway-fast-v0,5,,1,image
+0_Swimmer-v5_498787-episode-0.mp4,Swimmer-v5,5,false movement don't respect the consign ,1,text_image
+0_Hopper-v5_192344-episode-0.mp4,Hopper-v5,5,no video ( 0s),1,text
+0_Hopper-v5_95464-episode-0.mp4,Hopper-v5,5,no video ( 0s),1,text_image
+0_LunarLander-v3_337675-episode-0.mp4,LunarLander-v3,5,look betther but fly away,2,image
+0_highway-fast-v0_346154-episode-0.mp4,highway-fast-v0,5,,2,text_image
+0_Hopper-v5_22376-episode-0.mp4,Hopper-v5,5,,1,image
+0_LunarLander-v3_458415-episode-0.mp4,LunarLander-v3,5,,1,text_image
+0_Hopper-v5_779442-episode-0.mp4,Hopper-v5,5,,1,image
+0_highway-fast-v0_552007-episode-0.mp4,highway-fast-v0,5,,1,text
+0_highway-fast-v0_436534-episode-0.mp4,highway-fast-v0,5,,2,text_image
+0_Hopper-v5_220770-episode-0.mp4,Hopper-v5,5,,3,text
+0_LunarLander-v3_468194-episode-0.mp4,LunarLander-v3,5,,1,image
+0_Swimmer-v5_352566-episode-0.mp4,Swimmer-v5,5,,2,text_image
+0_LunarLander-v3_458415-episode-0.mp4,LunarLander-v3,5,,1,text_image
+0_Hopper-v5_95464-episode-0.mp4,Hopper-v5,5,,1,text_image
+0_LunarLander-v3_504541-episode-0.mp4,LunarLander-v3,5,,5,text
+0_highway-fast-v0_777634-episode-0.mp4,highway-fast-v0,5,,5,image
+0_Swimmer-v5_207193-episode-0.mp4,Swimmer-v5,5,,4,text
+0_Swimmer-v5_251676-episode-0.mp4,Swimmer-v5,5,,4,image
+0_highway-fast-v0_145787-episode-0.mp4,highway-fast-v0,5,,1,image
+0_LunarLander-v3_399215-episode-0.mp4,LunarLander-v3,5,,1,image
+0_Swimmer-v5_39181-episode-0.mp4,Swimmer-v5,5,,1,text_image
+0_Hopper-v5_62431-episode-0.mp4,Hopper-v5,5,,1,image
+0_Swimmer-v5_251676-episode-0.mp4,Swimmer-v5,5,,1,image
+0_LunarLander-v3_239673-episode-0.mp4,LunarLander-v3,5,,1,text
+0_highway-fast-v0_439136-episode-0.mp4,highway-fast-v0,5,,1,text

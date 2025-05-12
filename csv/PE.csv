@@ -1,0 +1,10 @@
+video_name,environment,understand,comment,rating,source
+0_Swimmer-v5_836464-episode-0.mp4,Swimmer-v5,5,Pas très rapide mais il a le comportement que l'on attand,4,text_image
+0_highway-fast-v0_960058-episode-0.mp4,highway-fast-v0,5,J'ai pas envie de monter dans cette voiture,1,image
+0_Hopper-v5_627340-episode-0.mp4,Hopper-v5,5,Il est tombé quoi,3,image
+0_Hopper-v5_95464-episode-0.mp4,Hopper-v5,5,Casser,1,text_image
+0_LunarLander-v3_55253-episode-0.mp4,LunarLander-v3,5,Il s'envole vers d'autre cieux !,1,image
+0_Swimmer-v5_297297-episode-0.mp4,Swimmer-v5,5,Il ne bouge pas,1,text
+0_LunarLander-v3_359613-episode-0.mp4,LunarLander-v3,5,,1,text_image
+0_Swimmer-v5_49740-episode-0.mp4,Swimmer-v5,5,,1,image
+0_LunarLander-v3_504541-episode-0.mp4,LunarLander-v3,5,Pas mal,4,text

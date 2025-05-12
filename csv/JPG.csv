@@ -1,0 +1,51 @@
+video_name,environment,understand,comment,rating,source
+0_Hopper-v5_375905-episode-0.mp4,Hopper-v5,5,,3,text_image
+0_highway-fast-v0_573194-episode-0.mp4,highway-fast-v0,5,,5,text
+0_LunarLander-v3_359613-episode-0.mp4,LunarLander-v3,5,Cheater,2,text_image
+0_Swimmer-v5_39181-episode-0.mp4,Swimmer-v5,5,,3,text_image
+0_LunarLander-v3_15289-episode-0.mp4,LunarLander-v3,5,better than before,3,text
+0_highway-fast-v0_699249-episode-0.mp4,highway-fast-v0,5,doesn't pass,2,image
+0_Swimmer-v5_93187-episode-0.mp4,Swimmer-v5,5,,1,image
+0_Hopper-v5_22376-episode-0.mp4,Hopper-v5,5,video's too short,1,image
+0_Hopper-v5_656843-episode-0.mp4,Hopper-v5,5,video's too short,1,text
+0_Swimmer-v5_434224-episode-0.mp4,Swimmer-v5,5,,1,text_image
+0_Hopper-v5_235190-episode-0.mp4,Hopper-v5,5,,4,text
+0_Swimmer-v5_49740-episode-0.mp4,Swimmer-v5,5,,1,image
+0_highway-fast-v0_960058-episode-0.mp4,highway-fast-v0,5,,1,image
+0_highway-fast-v0_792219-episode-0.mp4,highway-fast-v0,5,doesn't pass,3,text
+0_LunarLander-v3_964795-episode-0.mp4,LunarLander-v3,5,not stationary ,2,image
+0_Hopper-v5_228495-episode-0.mp4,Hopper-v5,5,,4,text_image
+0_highway-fast-v0_43229-episode-0.mp4,highway-fast-v0,5,passes but stays on the left,2,text_image
+0_Swimmer-v5_962893-episode-0.mp4,Swimmer-v5,5,,3,text
+0_LunarLander-v3_239673-episode-0.mp4,LunarLander-v3,5,,2,text
+0_Hopper-v5_749072-episode-0.mp4,Hopper-v5,5,doesn't move,1,image
+0_Swimmer-v5_93187-episode-0.mp4,Swimmer-v5,5,,2,image
+0_highway-fast-v0_330419-episode-0.mp4,highway-fast-v0,5,,1,text
+0_LunarLander-v3_795773-episode-0.mp4,LunarLander-v3,5,cheater,3,image
+0_Swimmer-v5_498787-episode-0.mp4,Swimmer-v5,5,,2,text_image
+0_highway-fast-v0_133437-episode-0.mp4,highway-fast-v0,5,,2,text_image
+0_Swimmer-v5_354392-episode-0.mp4,Swimmer-v5,5,,4,text
+0_LunarLander-v3_442119-episode-0.mp4,LunarLander-v3,5,oops,1,text_image
+0_Hopper-v5_803813-episode-0.mp4,Hopper-v5,5,"video's too short
+",1,text_image
+0_LunarLander-v3_187191-episode-0.mp4,LunarLander-v3,5,,1,text
+0_Hopper-v5_235190-episode-0.mp4,Hopper-v5,5,kinda high,3,text
+0_highway-fast-v0_777634-episode-0.mp4,highway-fast-v0,5,,5,image
+0_Hopper-v5_22376-episode-0.mp4,Hopper-v5,5,video's too short,1,image
+0_highway-fast-v0_495971-episode-0.mp4,highway-fast-v0,5,,1,text
+0_Swimmer-v5_862447-episode-0.mp4,Swimmer-v5,5,,5,text
+0_Hopper-v5_62431-episode-0.mp4,Hopper-v5,5,video's too short,1,image
+0_LunarLander-v3_42158-episode-0.mp4,LunarLander-v3,5,,3,image
+0_highway-fast-v0_217796-episode-0.mp4,highway-fast-v0,5,,2,image
+0_LunarLander-v3_178757-episode-0.mp4,LunarLander-v3,5,kinda cheating,3,text_image
+0_Hopper-v5_51198-episode-0.mp4,Hopper-v5,5,too high,2,text
+0_Swimmer-v5_708766-episode-0.mp4,Swimmer-v5,5,broken,2,text_image
+0_highway-fast-v0_133437-episode-0.mp4,highway-fast-v0,5,,1,text_image
+0_highway-fast-v0_133437-episode-0.mp4,highway-fast-v0,5,,1,text_image
+0_highway-fast-v0_133437-episode-0.mp4,highway-fast-v0,5,,1,text_image
+0_Swimmer-v5_409148-episode-0.mp4,Swimmer-v5,5,,1,image
+0_LunarLander-v3_504541-episode-0.mp4,LunarLander-v3,5,,4,text
+0_Hopper-v5_849864-episode-0.mp4,Hopper-v5,5,,1,text_image
+0_LunarLander-v3_143855-episode-0.mp4,LunarLander-v3,5,,1,text_image
+0_Hopper-v5_51198-episode-0.mp4,Hopper-v5,5,too high,3,text
+0_highway-fast-v0_963278-episode-0.mp4,highway-fast-v0,5,,3,text

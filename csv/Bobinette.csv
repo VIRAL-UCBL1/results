@@ -1,0 +1,122 @@
+video_name,environment,understand,comment,rating,source
+0_highway-fast-v0_439136-episode-0.mp4,highway-fast-v0,5,Only stay on the right lane but doesn't pass the vehicule on the left,2,text
+0_Swimmer-v5_551131-episode-0.mp4,Swimmer-v5,5,Doesn't go forward,1,text_image
+0_Hopper-v5_631693-episode-0.mp4,Hopper-v5,5,Does go forward without jumping high,5,text
+0_Swimmer-v5_93187-episode-0.mp4,Swimmer-v5,5,"Doesn't go forward, only half of it moves like a snake",1,image
+0_LunarLander-v3_442119-episode-0.mp4,LunarLander-v3,5,It does crash and land,1,text_image
+0_highway-fast-v0_310042-episode-0.mp4,highway-fast-v0,5,Pass the vehicule on the left but doesn't come back to the right lane,3,text
+0_LunarLander-v3_318570-episode-0.mp4,LunarLander-v3,5,"Doesn't land, doesn't crash but doesn't stationary flight",3,text
+0_Swimmer-v5_251676-episode-0.mp4,Swimmer-v5,5,doesn't go forward as a snake,1,image
+0_highway-fast-v0_133437-episode-0.mp4,highway-fast-v0,5,"no right lane, no passing vehicule",1,text_image
+0_Swimmer-v5_898062-episode-0.mp4,Swimmer-v5,5,,1,text
+0_highway-fast-v0_960058-episode-0.mp4,highway-fast-v0,5,,1,image
+0_Swimmer-v5_829344-episode-0.mp4,Swimmer-v5,5,does the snake not the forward,3,text_image
+0_Hopper-v5_516435-episode-0.mp4,Hopper-v5,5,,1,image
+0_LunarLander-v3_42158-episode-0.mp4,LunarLander-v3,5,,4,image
+0_Hopper-v5_375905-episode-0.mp4,Hopper-v5,5,,5,text_image
+0_Hopper-v5_313940-episode-0.mp4,Hopper-v5,5,,4,text
+0_LunarLander-v3_318570-episode-0.mp4,LunarLander-v3,5,,3,text
+0_highway-fast-v0_133437-episode-0.mp4,highway-fast-v0,5,,1,text_image
+0_Hopper-v5_22376-episode-0.mp4,Hopper-v5,5,,1,image
+0_Swimmer-v5_829344-episode-0.mp4,Swimmer-v5,5,snake but not forward,3,text_image
+0_LunarLander-v3_631760-episode-0.mp4,LunarLander-v3,5,,5,text_image
+0_Hopper-v5_228495-episode-0.mp4,Hopper-v5,5,,5,text_image
+0_Hopper-v5_220770-episode-0.mp4,Hopper-v5,5,,5,text
+0_Swimmer-v5_409148-episode-0.mp4,Swimmer-v5,5,,2,image
+0_highway-fast-v0_665012-episode-0.mp4,highway-fast-v0,5,right lane ok but no passing vehicule,3,image
+0_Swimmer-v5_898062-episode-0.mp4,Swimmer-v5,5,,1,text
+0_LunarLander-v3_795773-episode-0.mp4,LunarLander-v3,5,,4,image
+0_highway-fast-v0_825254-episode-0.mp4,highway-fast-v0,5,,1,text
+0_LunarLander-v3_187191-episode-0.mp4,LunarLander-v3,5,,4,text
+0_LunarLander-v3_143855-episode-0.mp4,LunarLander-v3,5,,3,text_image
+0_highway-fast-v0_346154-episode-0.mp4,highway-fast-v0,5,only right lane,2,text_image
+0_highway-fast-v0_7532-episode-0.mp4,highway-fast-v0,5,,2,text
+0_Hopper-v5_22376-episode-0.mp4,Hopper-v5,5,,1,image
+0_highway-fast-v0_217796-episode-0.mp4,highway-fast-v0,5,,2,image
+0_Hopper-v5_617705-episode-0.mp4,Hopper-v5,5,,5,text_image
+0_LunarLander-v3_307547-episode-0.mp4,LunarLander-v3,5,,4,image
+0_Swimmer-v5_962893-episode-0.mp4,Swimmer-v5,5,forward and snake but not entirely,4,text
+0_Swimmer-v5_865700-episode-0.mp4,Swimmer-v5,5,,1,text_image
+0_Hopper-v5_656843-episode-0.mp4,Hopper-v5,5,,1,text
+0_Swimmer-v5_970491-episode-0.mp4,Swimmer-v5,5,snake on acid,2,image
+0_Hopper-v5_313940-episode-0.mp4,Hopper-v5,5,,4,text
+0_highway-fast-v0_665012-episode-0.mp4,highway-fast-v0,5,,4,image
+0_Swimmer-v5_297297-episode-0.mp4,Swimmer-v5,5,,1,text
+0_LunarLander-v3_42158-episode-0.mp4,LunarLander-v3,5,,4,image
+0_LunarLander-v3_926013-episode-0.mp4,LunarLander-v3,5,,4,text
+0_highway-fast-v0_330419-episode-0.mp4,highway-fast-v0,5,,2,text
+0_Swimmer-v5_551131-episode-0.mp4,Swimmer-v5,5,,1,text_image
+0_LunarLander-v3_178757-episode-0.mp4,LunarLander-v3,5,,4,text_image
+0_highway-fast-v0_133437-episode-0.mp4,highway-fast-v0,5,,2,text_image
+0_Swimmer-v5_93187-episode-0.mp4,Swimmer-v5,5,,2,image
+0_Hopper-v5_228495-episode-0.mp4,Hopper-v5,5,,5,text_image
+0_Hopper-v5_854008-episode-0.mp4,Hopper-v5,5,,1,image
+0_Swimmer-v5_673659-episode-0.mp4,Swimmer-v5,5,not really forward,4,image
+0_Hopper-v5_76929-episode-0.mp4,Hopper-v5,5,,5,text
+0_highway-fast-v0_436534-episode-0.mp4,highway-fast-v0,5,,3,text_image
+0_Hopper-v5_519118-episode-0.mp4,Hopper-v5,5,"no high jump, wrong way",2,image
+0_LunarLander-v3_468194-episode-0.mp4,LunarLander-v3,5,,1,image
+0_LunarLander-v3_600632-episode-0.mp4,LunarLander-v3,5,,4,text_image
+0_Swimmer-v5_352566-episode-0.mp4,Swimmer-v5,5,,2,text_image
+0_Hopper-v5_276219-episode-0.mp4,Hopper-v5,5,,1,text_image
+0_highway-fast-v0_7532-episode-0.mp4,highway-fast-v0,5,,3,text
+0_Swimmer-v5_207193-episode-0.mp4,Swimmer-v5,5,forward,2,text
+0_highway-fast-v0_650470-episode-0.mp4,highway-fast-v0,5,,2,image
+0_LunarLander-v3_781334-episode-0.mp4,LunarLander-v3,5,,5,text
+0_highway-fast-v0_310042-episode-0.mp4,highway-fast-v0,5,,4,text
+0_highway-fast-v0_654586-episode-0.mp4,highway-fast-v0,5,,3,text_image
+0_highway-fast-v0_665012-episode-0.mp4,highway-fast-v0,5,,3,image
+0_Hopper-v5_51198-episode-0.mp4,Hopper-v5,5,,5,text
+0_LunarLander-v3_964795-episode-0.mp4,LunarLander-v3,5,,1,image
+0_Swimmer-v5_673659-episode-0.mp4,Swimmer-v5,5,,4,image
+0_LunarLander-v3_504541-episode-0.mp4,LunarLander-v3,5,,5,text
+0_Swimmer-v5_708766-episode-0.mp4,Swimmer-v5,5,,1,text_image
+0_Swimmer-v5_354392-episode-0.mp4,Swimmer-v5,5,,3,text
+0_Hopper-v5_237829-episode-0.mp4,Hopper-v5,5,,1,image
+0_LunarLander-v3_143855-episode-0.mp4,LunarLander-v3,5,,4,text_image
+0_Hopper-v5_276219-episode-0.mp4,Hopper-v5,5,,1,text_image
+0_Hopper-v5_617705-episode-0.mp4,Hopper-v5,5,,4,text_image
+0_Swimmer-v5_297297-episode-0.mp4,Swimmer-v5,5,,2,text
+0_Swimmer-v5_970491-episode-0.mp4,Swimmer-v5,5,,2,image
+0_LunarLander-v3_178757-episode-0.mp4,LunarLander-v3,5,,4,text_image
+0_highway-fast-v0_825254-episode-0.mp4,highway-fast-v0,5,,2,text
+0_LunarLander-v3_468194-episode-0.mp4,LunarLander-v3,5,,1,image
+0_LunarLander-v3_187191-episode-0.mp4,LunarLander-v3,5,,4,text
+0_Swimmer-v5_708766-episode-0.mp4,Swimmer-v5,5,,1,text_image
+0_highway-fast-v0_133437-episode-0.mp4,highway-fast-v0,5,,2,text_image
+0_highway-fast-v0_777634-episode-0.mp4,highway-fast-v0,5,,4,image
+0_Hopper-v5_22376-episode-0.mp4,Hopper-v5,5,,1,image
+0_Hopper-v5_656843-episode-0.mp4,Hopper-v5,5,,1,text
+0_highway-fast-v0_217796-episode-0.mp4,highway-fast-v0,5,,2,image
+0_Hopper-v5_95464-episode-0.mp4,Hopper-v5,5,,1,text_image
+0_LunarLander-v3_239673-episode-0.mp4,LunarLander-v3,5,,4,text
+0_LunarLander-v3_55253-episode-0.mp4,LunarLander-v3,5,,3,image
+0_Hopper-v5_656843-episode-0.mp4,Hopper-v5,5,,1,text
+0_highway-fast-v0_368543-episode-0.mp4,highway-fast-v0,5,,3,text_image
+0_Swimmer-v5_970491-episode-0.mp4,Swimmer-v5,5,,3,image
+0_Swimmer-v5_862447-episode-0.mp4,Swimmer-v5,5,,3,text
+0_highway-fast-v0_310042-episode-0.mp4,highway-fast-v0,5,,4,text
+0_Hopper-v5_732586-episode-0.mp4,Hopper-v5,5,,1,image
+0_LunarLander-v3_178757-episode-0.mp4,LunarLander-v3,5,,4,text_image
+0_Swimmer-v5_434224-episode-0.mp4,Swimmer-v5,5,,1,text_image
+0_highway-fast-v0_368543-episode-0.mp4,highway-fast-v0,5,,2,text_image
+0_Swimmer-v5_297297-episode-0.mp4,Swimmer-v5,5,,2,text
+0_Swimmer-v5_708766-episode-0.mp4,Swimmer-v5,5,,1,text_image
+0_LunarLander-v3_178757-episode-0.mp4,LunarLander-v3,5,,4,text_image
+0_Hopper-v5_22376-episode-0.mp4,Hopper-v5,5,,1,image
+0_LunarLander-v3_781334-episode-0.mp4,LunarLander-v3,5,,5,text
+0_highway-fast-v0_310042-episode-0.mp4,highway-fast-v0,5,,4,text
+0_LunarLander-v3_399215-episode-0.mp4,LunarLander-v3,5,,1,image
+0_Swimmer-v5_156005-episode-0.mp4,Swimmer-v5,5,,2,image
+0_Hopper-v5_192344-episode-0.mp4,Hopper-v5,5,,1,text
+0_highway-fast-v0_960058-episode-0.mp4,highway-fast-v0,5,,2,image
+0_Hopper-v5_228495-episode-0.mp4,Hopper-v5,5,,4,text_image
+0_LunarLander-v3_964795-episode-0.mp4,LunarLander-v3,5,,1,image
+0_highway-fast-v0_552007-episode-0.mp4,highway-fast-v0,5,,1,text
+0_LunarLander-v3_504541-episode-0.mp4,LunarLander-v3,5,,5,text
+0_Hopper-v5_95464-episode-0.mp4,Hopper-v5,5,,1,text_image
+0_Swimmer-v5_140716-episode-0.mp4,Swimmer-v5,5,,2,text_image
+0_Swimmer-v5_190647-episode-0.mp4,Swimmer-v5,5,,2,text
+0_LunarLander-v3_570404-episode-0.mp4,LunarLander-v3,5,,4,text_image
+0_highway-fast-v0_777634-episode-0.mp4,highway-fast-v0,5,,5,image
+0_highway-fast-v0_311567-episode-0.mp4,highway-fast-v0,5,,5,text_image

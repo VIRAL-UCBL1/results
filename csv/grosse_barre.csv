@@ -1,0 +1,14 @@
+video_name,environment,understand,comment,rating,source
+0_Swimmer-v5_551131-episode-0.mp4,Swimmer-v5,1,It moves,2,text_image
+0_highway-fast-v0_311567-episode-0.mp4,highway-fast-v0,3,No available path,3,text_image
+0_Hopper-v5_732586-episode-0.mp4,Hopper-v5,3,No idea what the subject is supposed to do,3,image
+0_Hopper-v5_803813-episode-0.mp4,Hopper-v5,1,video segment too short,1,text_image
+0_Swimmer-v5_156005-episode-0.mp4,Swimmer-v5,3,,3,image
+0_LunarLander-v3_504541-episode-0.mp4,LunarLander-v3,3,,3,text
+0_LunarLander-v3_42158-episode-0.mp4,LunarLander-v3,1,,1,image
+0_highway-fast-v0_573194-episode-0.mp4,highway-fast-v0,3,,3,text
+0_Swimmer-v5_190647-episode-0.mp4,Swimmer-v5,3,,3,text
+0_Hopper-v5_192344-episode-0.mp4,Hopper-v5,1,video too short,1,text
+0_LunarLander-v3_631760-episode-0.mp4,LunarLander-v3,4,,5,text_image
+0_highway-fast-v0_145787-episode-0.mp4,highway-fast-v0,1,,1,image
+0_Swimmer-v5_970491-episode-0.mp4,Swimmer-v5,3,,4,image

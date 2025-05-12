@@ -1,0 +1,122 @@
+video_name,environment,understand,comment,rating,source
+0_highway-fast-v0_964790-episode-0.mp4,highway-fast-v0,5,Always stays on the left lane,1,image
+0_Swimmer-v5_865700-episode-0.mp4,Swimmer-v5,5,"Didn't move forward really well, then curled and got stuck so",1,text_image
+0_highway-fast-v0_43229-episode-0.mp4,highway-fast-v0,5,"Was on the right lane, then went on the middle lane to dodge a car, then on the left lane for no real reason (or huge anticipation of the second blue car?)",3,text_image
+0_LunarLander-v3_458415-episode-0.mp4,LunarLander-v3,5,Comically crashed and failed,1,text_image
+0_LunarLander-v3_458415-episode-0.mp4,LunarLander-v3,5,Comically crashed and failed,1,text_image
+0_LunarLander-v3_458415-episode-0.mp4,LunarLander-v3,5,Comically crashed and failed,1,text_image
+0_LunarLander-v3_458415-episode-0.mp4,LunarLander-v3,5,Comically crashed and failed,1,text_image
+0_LunarLander-v3_458415-episode-0.mp4,LunarLander-v3,5,Comically crashed and failed,1,text_image
+0_LunarLander-v3_458415-episode-0.mp4,LunarLander-v3,5,Comically crashed and failed,1,text_image
+0_Swimmer-v5_970491-episode-0.mp4,Swimmer-v5,5,"That's the spirit, but it barely moves",2,image
+0_highway-fast-v0_699249-episode-0.mp4,highway-fast-v0,5,"Moved back to right lane whenever possible, but didn't dare move back to the middle lane when needed",2,image
+0_LunarLander-v3_237834-episode-0.mp4,LunarLander-v3,5,"In the AI's defense, you said ""Do not land but do not crash"". If it based itself off just that and somewhat ignored or neglected the ""i want a stationary Flight"" part, it flying upwards (plus it's not known by how much) is udnerstandable.",4,text
+0_Hopper-v5_854008-episode-0.mp4,Hopper-v5,5,"Video kinda messed up, there's only 2 frames. It seems that the leg starts to fall though?",2,image
+0_Swimmer-v5_862397-episode-0.mp4,Swimmer-v5,5,"At least it's moving forward at a noticeable speed, but not like a snake.",3,text
+0_highway-fast-v0_43229-episode-0.mp4,highway-fast-v0,5,"Similar to a previous video; was on RIGHT at first, passed a car by MIDDLE, then went LEFT for some reason.",3,text_image
+0_highway-fast-v0_7532-episode-0.mp4,highway-fast-v0,5,"Starts from the middle lane, so meh.
+Then, had the passed blue car changed lanes earlier, going LEFT would've made sense. But here, the green car pretty much went behind the blue car.",1,text
+0_Hopper-v5_749072-episode-0.mp4,Hopper-v5,5,It just... landed?,1,image
+0_Swimmer-v5_49740-episode-0.mp4,Swimmer-v5,5,Stuck curled onto itself,1,image
+0_Swimmer-v5_190647-episode-0.mp4,Swimmer-v5,5,"Tried something un-snake-like, didn't work",1,text
+0_Hopper-v5_235190-episode-0.mp4,Hopper-v5,5,"I mean, instructions unclear; fast-forward? Check. No high jumps? Check. Not tripping and heading straight towards the ground was beyond the rules.
+That's on the prompter.",5,text
+0_LunarLander-v3_307547-episode-0.mp4,LunarLander-v3,5,"Fairly stationary if you ask me, only goes up by a bit too much.
+Ask a beginner to make a helicopter stationary; I'm not a helicopter expert but it might not be too straightforward unless there's a button specifically made for stationary flight.",4,image
+0_highway-fast-v0_552007-episode-0.mp4,highway-fast-v0,5,"Assuming it had reently merged to the LEFT to avoid cars, it could've merged back in the MIDDLE afterwards. Not convincing.",2,text
+0_LunarLander-v3_781334-episode-0.mp4,LunarLander-v3,5,"That's not very stationary, but let me ask you this: what exactly do you need stationary flight for? Having it not be on the ground? Or have it be at a specific position in space?",3,text
+0_Hopper-v5_228495-episode-0.mp4,Hopper-v5,5,"Like before, the leg followed the instructions. Not dropping to the ground was not part the dead.",5,text_image
+0_Hopper-v5_237829-episode-0.mp4,Hopper-v5,5,Not moving forward at all,2,image
+0_Swimmer-v5_472134-episode-0.mp4,Swimmer-v5,5,"That's the right motion in theory, but it fails to move forward. (Personally, I'm not sure how a snake moves forward precisely, so I can't judge.)",2,text
+0_Swimmer-v5_140716-episode-0.mp4,Swimmer-v5,5,"That's not really forward, and that's not very snake.",2,text_image
+0_Hopper-v5_220770-episode-0.mp4,Hopper-v5,5,"Technically not jumping too high, and technically moving fast forward. Maybe specify it shouldn't drop down if that's what you really want.",4,text
+0_LunarLander-v3_399215-episode-0.mp4,LunarLander-v3,5,no (crashed),1,image
+0_highway-fast-v0_43229-episode-0.mp4,highway-fast-v0,5,"(Are you guys copy-pasting some of these?)
+Starts on the RIGHT lane, moves to the MIDDLE lane to pass a blue car, then moves to the LEFT lane for no real reason.
+And yeah, should probably even just go back to the RIGHT lane instead.",2,text_image
+0_Swimmer-v5_708766-episode-0.mp4,Swimmer-v5,5,Curled and failed as soon as possible,1,text_image
+0_LunarLander-v3_318570-episode-0.mp4,LunarLander-v3,5,"No really stationary, doesn't seem to come back",3,text
+0_Swimmer-v5_409148-episode-0.mp4,Swimmer-v5,5,"It tried moving like a snake, but meh",2,image
+0_Swimmer-v5_207193-episode-0.mp4,Swimmer-v5,5,"At least that's right pose to hold, kinda? Better than when curled, and it did move forward a little. But it's not moving like a snake",3,text
+0_Hopper-v5_991558-episode-0.mp4,Hopper-v5,5,"Fast forward, no high jumps, that counts",5,text_image
+0_highway-fast-v0_573194-episode-0.mp4,highway-fast-v0,5,"I wouldn't want that green card on a road anytime soon, I'd rather have the snake",1,text
+0_highway-fast-v0_650470-episode-0.mp4,highway-fast-v0,5,"Can't be judgemental here; stayed on the RIGHT lane, didn't really want to pass two cars because that means moving by two lanes, fair enough. Instructions only show the car passing a single car, so depending on the exact given prompt...",4,image
+0_Hopper-v5_22376-episode-0.mp4,Hopper-v5,5,It's just two frames (once again).,1,image
+0_LunarLander-v3_228071-episode-0.mp4,LunarLander-v3,5,It just dropped dead.,1,image
+0_Hopper-v5_235190-episode-0.mp4,Hopper-v5,5,"Fast forward, without jumping too high",5,text
+0_highway-fast-v0_217796-episode-0.mp4,highway-fast-v0,5,"That blue car got traumatized; did the green car try passing it at the last possible second, only to realize there was no lane further left?",1,image
+0_Hopper-v5_869216-episode-0.mp4,Hopper-v5,5,"Fast forward, without jumping too high. For how long though?",4,text
+0_Hopper-v5_779442-episode-0.mp4,Hopper-v5,5,It's two frames. Is that even supposed to be like this??,1,image
+0_highway-fast-v0_436534-episode-0.mp4,highway-fast-v0,5,at least it stayed on the right lane as soon as it figured it had to,2,text_image
+0_highway-fast-v0_963278-episode-0.mp4,highway-fast-v0,5,"Got back onto the RIGHT lane, then might have been confused by the disposition of the cars. Maybe it thinks it's unsafe to pass the car in front of it?",3,text
+0_Swimmer-v5_409148-episode-0.mp4,Swimmer-v5,5,"Basically moving in circles, because it's not adopting the expected snake-like behavior",2,image
+0_Hopper-v5_803813-episode-0.mp4,Hopper-v5,5,Two    frames,1,text_image
+0_LunarLander-v3_468194-episode-0.mp4,LunarLander-v3,5,Crashed,1,image
+0_Swimmer-v5_862397-episode-0.mp4,Swimmer-v5,5,"It's... something. It moves forward at a passable pace, but it's not exactly snake-like.",3,text
+0_Swimmer-v5_39181-episode-0.mp4,Swimmer-v5,5,"Well, it's not optimized, probably needs better sync, but it's moving kind of like expected from what I understand",4,text_image
+0_LunarLander-v3_15289-episode-0.mp4,LunarLander-v3,5,"Not too stationary, derivates to the right, but decent",4,text
+0_Swimmer-v5_354392-episode-0.mp4,Swimmer-v5,5,"Front is too stiff, but that's the spirit. Then it got confused and stop near the end, too bad.",3,text
+0_highway-fast-v0_964790-episode-0.mp4,highway-fast-v0,5,"only sticked to the left lane, boooo",1,image
+0_Hopper-v5_62431-episode-0.mp4,Hopper-v5,5,Two frames again?...,1,image
+0_Hopper-v5_631693-episode-0.mp4,Hopper-v5,5,r/TechnicallyTheTruth,4,text
+0_Hopper-v5_849864-episode-0.mp4,Hopper-v5,5,"Well it did fast-forward itself towards the ground, it needs to move further horizontally, keeping balance. ",3,text_image
+0_highway-fast-v0_495971-episode-0.mp4,highway-fast-v0,5,Not on the right lane,1,text
+0_Swimmer-v5_352566-episode-0.mp4,Swimmer-v5,5,"Tried something, failed something",2,text_image
+0_LunarLander-v3_55253-episode-0.mp4,LunarLander-v3,5,Can't tell how much it moved.,3,image
+0_LunarLander-v3_215642-episode-0.mp4,LunarLander-v3,5,"Can't tell how much it moved, but I assume it just flew up  indefinitely or something, not that great",2,text_image
+0_highway-fast-v0_43229-episode-0.mp4,highway-fast-v0,5,This has to be the third time I watch this one- Why is it not moving back into the RIGHT lane after it left it to pass a car via the MIDDLE lane?,2,text_image
+0_LunarLander-v3_15289-episode-0.mp4,LunarLander-v3,5,Idk why it goes to the right,3,text
+0_Swimmer-v5_327852-episode-0.mp4,Swimmer-v5,5,"Almost completely curled, didn't do much anyway",3,image
+0_LunarLander-v3_187191-episode-0.mp4,LunarLander-v3,5,too high up,3,text
+0_Hopper-v5_656843-episode-0.mp4,Hopper-v5,5,Am I going insane or did you guys forget the rest of the video?,1,text
+0_Swimmer-v5_472134-episode-0.mp4,Swimmer-v5,5,"Wiggles like a snake, doesn't move like one",2,text
+0_highway-fast-v0_573194-episode-0.mp4,highway-fast-v0,5,"moved back to the right lane, which is good, but there was another car and so idk why it didn't move back to the middle lane",3,text
+0_highway-fast-v0_436534-episode-0.mp4,highway-fast-v0,3,"Well it's not passing any car... Can the green car accelerate? If yes, then it could do that. If it can only change lanes, then I guess it did things right?",3,text_image
+0_Hopper-v5_375905-episode-0.mp4,Hopper-v5,5,Jumps are a bit high,3,text_image
+0_LunarLander-v3_458415-episode-0.mp4,LunarLander-v3,5,crashed (what else am i supposed to understand?,3,text_image
+0_Hopper-v5_749072-episode-0.mp4,Hopper-v5,5,The leg is not legging (but at least we've got 8 seconds of this),1,image
+0_LunarLander-v3_228071-episode-0.mp4,LunarLander-v3,5,"Crashed, again",1,image
+0_Swimmer-v5_865700-episode-0.mp4,Swimmer-v5,5,"Wrong position, not really moving, kinda sad",1,text_image
+0_Swimmer-v5_49740-episode-0.mp4,Swimmer-v5,5,,1,image
+0_highway-fast-v0_964790-episode-0.mp4,highway-fast-v0,5,"Traffic was weird, I'll allow it",4,image
+0_Swimmer-v5_469177-episode-0.mp4,Swimmer-v5,5,"L (literally, it's L-shaped and barely moving)",1,text
+0_highway-fast-v0_49861-episode-0.mp4,highway-fast-v0,5,"Traffic was weird, but it doesn't try to pass that last car, so idk",4,image
+0_highway-fast-v0_800393-episode-0.mp4,highway-fast-v0,5,not even on the right lane,1,text_image
+0_Hopper-v5_803813-episode-0.mp4,Hopper-v5,5,Two frames once more,1,text_image
+0_LunarLander-v3_237834-episode-0.mp4,LunarLander-v3,5,"Flew off screen, maybe stationary but idk
+(you guys figure funny ways to make people watch a still display for 18 seconds)",2,text
+0_highway-fast-v0_825254-episode-0.mp4,highway-fast-v0,5,Not even close,1,text
+0_Hopper-v5_313940-episode-0.mp4,Hopper-v5,5,"Fast forward, without jumping too high, that counts",4,text
+0_Hopper-v5_627340-episode-0.mp4,Hopper-v5,5,"checks out with the prompt, wdym?",5,image
+0_LunarLander-v3_307547-episode-0.mp4,LunarLander-v3,5,"flies up a little, not sure if this is what you expected but the prompt is reasonably followed",4,image
+0_Swimmer-v5_534657-episode-0.mp4,Swimmer-v5,5,just curled up,1,image
+0_LunarLander-v3_215642-episode-0.mp4,LunarLander-v3,5,"flew off screen, so idk",3,text_image
+0_Swimmer-v5_352566-episode-0.mp4,Swimmer-v5,5,"Tried moving, but not very convincing",2,text_image
+0_Swimmer-v5_327852-episode-0.mp4,Swimmer-v5,5,Not even really moving,1,image
+0_LunarLander-v3_964795-episode-0.mp4,LunarLander-v3,5,"Right about to land, seems off-script",1,image
+0_highway-fast-v0_825254-episode-0.mp4,highway-fast-v0,5,Could definitely go to the right lane,1,text
+0_Hopper-v5_235190-episode-0.mp4,Hopper-v5,5,"It does yeet itself towards the ground, but the prompt is respected for the time of the video",5,text
+0_Swimmer-v5_862397-episode-0.mp4,Swimmer-v5,5,"moves forward, but not really like a snake. By the way, if you call it ""swimmer"", shouldn't t be underwater or such?",3,text
+0_Hopper-v5_519118-episode-0.mp4,Hopper-v5,5,That's backwards (but jumps aren't that high),2,image
+0_highway-fast-v0_654586-episode-0.mp4,highway-fast-v0,5,Off-script,1,text_image
+0_Hopper-v5_375905-episode-0.mp4,Hopper-v5,5,Accurate for the time of the video,5,text_image
+0_highway-fast-v0_49861-episode-0.mp4,highway-fast-v0,5,"On the right lane, but yeah it does feel like the blue car has to move away from that lane",3,image
+0_Swimmer-v5_551131-episode-0.mp4,Swimmer-v5,5,"Curled, again",1,text_image
+0_LunarLander-v3_926013-episode-0.mp4,LunarLander-v3,5,"Moves up a bit, I've seen worse stationary flight though",5,text
+0_LunarLander-v3_210114-episode-0.mp4,LunarLander-v3,5,Idk why it went down then left,4,text_image
+0_highway-fast-v0_625676-episode-0.mp4,highway-fast-v0,5,do I need to explain? (crashed),1,text_image
+0_Hopper-v5_854008-episode-0.mp4,Hopper-v5,5,A number of appaent frames approximating the amount of 2,1,image
+0_LunarLander-v3_318570-episode-0.mp4,LunarLander-v3,5,"not really stationary, I don't think we'll see it again",3,text
+0_Swimmer-v5_472134-episode-0.mp4,Swimmer-v5,5,"Snake-like, but not moving forward",2,text
+0_highway-fast-v0_145787-episode-0.mp4,highway-fast-v0,5,"Idk, it might haven't felt safe with going back to the right lane after that car passing",4,image
+0_Swimmer-v5_865700-episode-0.mp4,Swimmer-v5,5,"Tried, but that's not it",2,text_image
+0_Hopper-v5_220770-episode-0.mp4,Hopper-v5,5,"I keep telling you, you're not telling the leg to not drop",5,text
+0_highway-fast-v0_573194-episode-0.mp4,highway-fast-v0,5,I guess it stayed on the right lane afterwards?,3,text
+0_LunarLander-v3_319551-episode-0.mp4,LunarLander-v3,5,That's not stationary,3,image
+0_Hopper-v5_276219-episode-0.mp4,Hopper-v5,5,That's not showing much happening,1,text_image
+0_LunarLander-v3_359613-episode-0.mp4,LunarLander-v3,5,Maybe the spacecraft was the friends we made along the way,1,text_image
+0_Swimmer-v5_93187-episode-0.mp4,Swimmer-v5,5,"That's not moving like a snake. In fact, it's not really moving much.",2,image
+0_highway-fast-v0_625676-episode-0.mp4,highway-fast-v0,5,Crashed,1,text_image
+0_LunarLander-v3_42158-episode-0.mp4,LunarLander-v3,5,"Well, that's fairly drunk for a stationary flight but I'll give it a pass",4,image
+0_Swimmer-v5_469177-episode-0.mp4,Swimmer-v5,5,Not moving much,1,text
+0_LunarLander-v3_210114-episode-0.mp4,LunarLander-v3,5,Not too stationary,4,text_image
